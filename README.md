@@ -1,5 +1,14 @@
 # AMMI2021_Bootcamp_project
-This repo consists of the final project for the AMMI 2021 students
+A project of classifying data using rule-based model. 
+
+## model.py
+contains the rule based model.
+
+## utils
+a module for reading csv files using python IO.
+
+## visualizations 
+a jupyter note-book for visualization of data and selecting promising features.
 
 How to use:
 - Fork this repo to your github account
